@@ -18,7 +18,7 @@ export default class Server{
         })
 
         app.listen(this.port, function(){
-            console.log('serveur demarrer le s e ee');
+            console.log('serveur demarrer le');
         })
     }
 }
